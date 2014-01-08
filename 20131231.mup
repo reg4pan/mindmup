@@ -4,33 +4,14 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "test",
+      "title": "buy sound box",
       "id": 2
     },
-    "2": {
-      "title": "stest",
-      "id": 4
-    },
     "-1": {
-      "title": "test",
+      "title": "KPI",
       "id": 3,
-      "ideas": {
-        "1": {
-          "title": "d",
-          "id": 8,
-          "ideas": {
-            "1": {
-              "title": "d",
-              "id": 9,
-              "ideas": {}
-            }
-          }
-        }
-      }
-    },
-    "-2": {
-      "title": "stes",
-      "id": 5
+      "ideas": {}
     }
-  }
+  },
+  "links": []
 }
