@@ -1,0 +1,197 @@
+{
+  "title": "tansfer kick-off meeting",
+  "ideas": {
+    "1": {
+      "title": "goals",
+      "ideas": {
+        "1": {
+          "title": "know each other",
+          "id": 3
+        },
+        "2": {
+          "title": "share current transfer status",
+          "id": 4
+        },
+        "3": {
+          "title": "what's next",
+          "id": 5
+        }
+      },
+      "id": 2
+    },
+    "2": {
+      "title": "content",
+      "ideas": {
+        "1": {
+          "title": "self introduction",
+          "ideas": {
+            "1": {
+              "title": "available time for new project",
+              "id": 8
+            }
+          },
+          "id": 7
+        },
+        "2": {
+          "title": "materials archive and collection",
+          "id": 9
+        },
+        "3": {
+          "title": "document study request",
+          "ideas": {
+            "1": {
+              "title": "when finished",
+              "ideas": {
+                "1": {
+                  "title": "overall document is at the end of this week",
+                  "ideas": {
+                    "1": {
+                      "title": "all",
+                      "id": 13
+                    }
+                  },
+                  "id": 12
+                },
+                "2": {
+                  "title": "general sdh/sonet/otn understanding is at the end of next week",
+                  "ideas": {
+                    "1": {
+                      "title": "all",
+                      "id": 15
+                    }
+                  },
+                  "id": 14
+                },
+                "3": {
+                  "title": "alm",
+                  "ideas": {
+                    "1": {
+                      "title": "?",
+                      "id": 17
+                    }
+                  },
+                  "id": 16
+                },
+                "4": {
+                  "title": "facility management",
+                  "ideas": {
+                    "1": {
+                      "title": "?",
+                      "id": 19
+                    }
+                  },
+                  "id": 18
+                },
+                "5": {
+                  "title": "eqm",
+                  "ideas": {
+                    "1": {
+                      "title": "?",
+                      "id": 21
+                    }
+                  },
+                  "id": 20
+                },
+                "6": {
+                  "title": "platform/interal lan/interal xxx/",
+                  "ideas": {
+                    "1": {
+                      "title": "?",
+                      "id": 23
+                    }
+                  },
+                  "id": 22
+                },
+                "7": {
+                  "title": "service protection",
+                  "ideas": {
+                    "1": {
+                      "title": "?",
+                      "id": 25
+                    }
+                  },
+                  "id": 24
+                },
+                "8": {
+                  "title": "pack protection",
+                  "ideas": {
+                    "1": {
+                      "title": "?",
+                      "id": 27
+                    }
+                  },
+                  "id": 26
+                },
+                "9": {
+                  "title": "general pack/shelf",
+                  "ideas": {
+                    "1": {
+                      "title": "?",
+                      "id": 29
+                    }
+                  },
+                  "id": 28
+                },
+                "10": {
+                  "title": "data pack management",
+                  "ideas": {
+                    "1": {
+                      "title": "?",
+                      "id": 31
+                    }
+                  },
+                  "id": 30
+                },
+                "11": {
+                  "title": "db/sw management",
+                  "ideas": {
+                    "1": {
+                      "title": "?",
+                      "id": 33
+                    }
+                  },
+                  "id": 32
+                },
+                "12": {
+                  "title": "SWA",
+                  "id": 34
+                }
+              },
+              "id": 11
+            },
+            "2": {
+              "title": "report progress weekly",
+              "id": 35
+            },
+            "3": {
+              "title": "give a training to all of team",
+              "id": 36
+            },
+            "4": {
+              "title": "raise a question in the wiki",
+              "ideas": {
+                "1": {
+                  "title": "miss document",
+                  "id": 38
+                },
+                "2": {
+                  "title": "something not known",
+                  "id": 39
+                }
+              },
+              "id": 37
+            }
+          },
+          "id": 10
+        }
+      },
+      "id": 6
+    },
+    "3": {
+      "title": "time",
+      "id": 40
+    }
+  },
+  "formatVersion": 2,
+  "id": 1
+}
